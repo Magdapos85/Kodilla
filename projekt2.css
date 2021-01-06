@@ -237,5 +237,6 @@ h5 {
 @media (min-width: 1000px) {
   .rwd {
     color: orange;
+    font-size: 200px;
   }
 }
