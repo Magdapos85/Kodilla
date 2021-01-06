@@ -229,7 +229,7 @@ h5 {
   @media (max-width: 767px) {
     .rwd {
       color: blue;
-      font-size: 15px;
+      font-size: 23px;
       font-weight: normal;
       font-family: cursive;
     }
@@ -237,5 +237,6 @@ h5 {
 @media (min-width: 1000px) {
   .rwd {
     color: orange;
+    font-size:50px;
   }
 }
